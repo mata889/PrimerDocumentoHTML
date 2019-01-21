@@ -1,0 +1,37 @@
+
+body {
+  background-image: url("Background.png");
+}
+.card {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  max-width: 90%;
+  margin: auto;
+  text-align: center;
+  font-family: arial;
+}
+.card1 {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  max-width: 90%;
+  max-height: 90%;
+  margin: auto;
+  text-align: left;
+  font-family: arial;
+}
+h1{
+  text-align: left;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+h2{
+  text-align: left;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+title{
+  color: blue;
+  text-decoration-style: wavy;
+}
+p{
+  text-align: left;
+}
+
+
+
